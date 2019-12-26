@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50ce2eb1-8638-4353-929d-e8ecce8155c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RF6wt2daf3yNYlopaCMMYwa02m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assessment/dropout" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT5230\assessment\latent_dim" />
+      <recent name="D:\IT5230\assessment\number_layer" />
+      <recent name="D:\IT5230\assessment\negative_sample" />
+      <recent name="D:\IT5230\assessment\kernel_regularizer" />
+      <recent name="D:\IT5230\assessment\kernal_regularizer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IT5230\assessment\dropout" />
+      <recent name="D:\IT5230\dropout" />
+      <recent name="D:\IT5230" />
+      <recent name="D:\IT5230\regu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dropout">
+    <configuration name="draw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IT5230" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/negative_sample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\IT5230\assessment\negative_sample\draw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dropout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IT5230" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dropout" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dropout/dropout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="neumf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IT5230" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neumf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="number_layer2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IT5230" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\IT5230\assessment\number_layer\neumf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IT5230" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dropout" />
+        <item itemvalue="Python.neumf" />
+        <item itemvalue="Python.number_layer2" />
+        <item itemvalue="Python.number_layer2" />
+        <item itemvalue="Python.draw" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50ce2eb1-8638-4353-929d-e8ecce8155c2" name="Default Changelist" comment="" />
+      <created>1569250741081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569250741081</updated>
+      <workItem from="1569250757438" duration="990000" />
+      <workItem from="1569292662247" duration="573000" />
+      <workItem from="1569401010931" duration="5305000" />
+      <workItem from="1569574061581" duration="1059000" />
+      <workItem from="1569577970144" duration="1802000" />
+      <workItem from="1569768879554" duration="6909000" />
+      <workItem from="1569845999072" duration="4767000" />
+      <workItem from="1569898825647" duration="20889000" />
+      <workItem from="1569982331340" duration="16765000" />
+      <workItem from="1570019806397" duration="184000" />
+      <workItem from="1570020639076" duration="6039000" />
+      <workItem from="1570068796079" duration="825000" />
+      <workItem from="1570074957649" duration="4209000" />
+      <workItem from="1570110362408" duration="5302000" />
+      <workItem from="1570157574581" duration="16095000" />
+      <workItem from="1570197693790" duration="68000" />
+      <workItem from="1570420332427" duration="23747000" />
+      <workItem from="1570504812710" duration="4474000" />
+      <workItem from="1570520149157" duration="6036000" />
+      <workItem from="1571927488341" duration="1347000" />
+      <workItem from="1572172611503" duration="110000" />
+      <workItem from="1572860346736" duration="9995000" />
+      <workItem from="1572940680671" duration="6417000" />
+      <workItem from="1572964465023" duration="2637000" />
+      <workItem from="1573009356695" duration="25902000" />
+      <workItem from="1573091846948" duration="13146000" />
+      <workItem from="1573138130352" duration="125000" />
+      <workItem from="1573141130423" duration="550000" />
+      <workItem from="1573204439367" duration="958000" />
+      <workItem from="1573206699218" duration="614000" />
+      <workItem from="1573372635280" duration="17242000" />
+      <workItem from="1573439372756" duration="9443000" />
+      <workItem from="1573522714446" duration="5835000" />
+      <workItem from="1573546983664" duration="372000" />
+      <workItem from="1574740263562" duration="163000" />
+      <workItem from="1574740720281" duration="16707000" />
+      <workItem from="1574823843606" duration="11485000" />
+      <workItem from="1574837295007" duration="4063000" />
+      <workItem from="1574852388106" duration="6781000" />
+      <workItem from="1574909266078" duration="4550000" />
+      <workItem from="1574936254413" duration="7025000" />
+      <workItem from="1574950937770" duration="1695000" />
+      <workItem from="1575021817994" duration="3432000" />
+      <workItem from="1575077918082" duration="2939000" />
+      <workItem from="1575624718154" duration="260000" />
+      <workItem from="1575625964176" duration="2050000" />
+      <workItem from="1575635674007" duration="6269000" />
+      <workItem from="1575814837714" duration="1296000" />
+      <workItem from="1575863726902" duration="1066000" />
+      <workItem from="1575866010445" duration="681000" />
+      <workItem from="1575867054758" duration="3244000" />
+      <workItem from="1576062645728" duration="13467000" />
+      <workItem from="1576082337542" duration="339000" />
+      <workItem from="1576122965422" duration="5555000" />
+      <workItem from="1576162435172" duration="2630000" />
+      <workItem from="1576203172789" duration="7459000" />
+      <workItem from="1576213290002" duration="1205000" />
+      <workItem from="1576214866179" duration="3213000" />
+      <workItem from="1576222464636" duration="3632000" />
+      <workItem from="1576228597592" duration="6010000" />
+      <workItem from="1576314340957" duration="11521000" />
+      <workItem from="1576330448678" duration="1567000" />
+      <workItem from="1576333515596" duration="1627000" />
+      <workItem from="1576338433531" duration="5246000" />
+      <workItem from="1576416394345" duration="8979000" />
+      <workItem from="1576819846614" duration="3899000" />
+      <workItem from="1576941658003" duration="8203000" />
+      <workItem from="1576975519202" duration="9751000" />
+      <workItem from="1577003292065" duration="347000" />
+      <workItem from="1577006694646" duration="17525000" />
+      <workItem from="1577033052746" duration="159000" />
+      <workItem from="1577075174771" duration="915000" />
+      <workItem from="1577076559363" duration="703000" />
+      <workItem from="1577089280786" duration="1148000" />
+      <workItem from="1577365050532" duration="6838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577371192927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1577371192927" />
+    <state x="549" y="152" key="FileChooserDialogImpl" timestamp="1577032131609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="152" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577032131609" />
+  </component>
+</project>
